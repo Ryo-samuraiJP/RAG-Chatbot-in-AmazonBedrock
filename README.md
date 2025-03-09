@@ -2,6 +2,8 @@
 
 RAG (Retrieval Augmented Generation) chatbot is an AI chatbot with a technique that enhances AI language models by providing documentation as the data source, enabling the chatbot to provide accurate and up-to-date responses, even if the required information is latest and unavailable online. 
 
+![instruct manual & funny episode](https://github.com/user-attachments/assets/9ad8b883-b3ec-4f5b-879f-e2393519f323)
+
 ## Table of Contents
 - [Used Tools and Concepts](#used-tools-and-concepts)
 - [Objective](#objective)
@@ -36,3 +38,8 @@ By following these flows, the AI chatbot is transformed into the **RAG chatbot**
 Please reference a document to see more details. 
 
 ## Demo
+![funny story with sauna](https://github.com/user-attachments/assets/6c449522-528a-4d63-ac66-45c07c5f2df1)
+![type of student](https://github.com/user-attachments/assets/9bd851f9-662c-4c22-97d2-b2737630315a)
+![type of boy](https://github.com/user-attachments/assets/d3858ef7-c355-478f-b3fa-e5ce73a5364f)
+![when depressed](https://github.com/user-attachments/assets/7485b7fb-04af-4126-81f9-2e73f6498298)
+
