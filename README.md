@@ -1,1 +1,1 @@
-# AIChatbot-with-RAG-AmazonBedrock
+# RAG Chatbot in AmazonBedrock
