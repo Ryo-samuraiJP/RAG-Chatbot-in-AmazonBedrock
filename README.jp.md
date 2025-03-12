@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-[日本語](https://github.com/Ryo-samuraiJP/RAG-Chatbot-in-AmazonBedrock/blob/main/LICENSE.jp.md) | [English](https://github.com/Ryo-samuraiJP/RAG-Chatbot-in-AmazonBedrock)
+[日本語](https://github.com/Ryo-samuraiJP/RAG-Chatbot-in-AmazonBedrock/blob/main/README.jp.md) | [English](https://github.com/Ryo-samuraiJP/RAG-Chatbot-in-AmazonBedrock)
 
 **RAG (Retrieval Augmented Generation) チャットボット**とは、ドキュメントやウェブリンクなどをデータソースとして組み込むことで、
 言語モデルを強化する AI 搭載のチャットボットです。この AI 技術により、最新の情報やオンラインで入手不可能な情報であっても、正確かつ最新の回答を提供することが可能になります。
